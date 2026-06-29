@@ -65,14 +65,10 @@ MIDDLEWARE = [
 
 CORS_ALLOW_ALL_ORIGINS = False
 
-
 CORS_ALLOWED_ORIGINS = [
-
-"http://localhost:5173",
-"vu-rec-frontend-w2kw-1fs45tkof-2022kanchanat-9566s-projects.vercel.app",
-
+    "http://localhost:5173",
+    "https://vu-rec-frontend-w2kw-1fs45tkof-2022kanchanat-9566s-projects.vercel.app",
 ]
-
 
 # Custom user
 
